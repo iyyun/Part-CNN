@@ -36,6 +36,7 @@ Detection results for [Caltech](https://), [ETH](https://), and [INRIA](https://
 Download trained networks
 -------------------------
 - [Caltech-USA](http://dspl.skku.ac.kr/home_course/data/part-cnn/model/usa/caltech-usa.zip)
+- [Caltech-USA](http://dspl.skku.ac.kr/home_course/data/part-cnn/model/part.zip)
 
 
 Citation
