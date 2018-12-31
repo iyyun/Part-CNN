@@ -18,23 +18,29 @@ Images
 - Whole framework of the proposed method. The proposed pedestrian network consists of two subnetworks: detection
 and alignment.
 <div style="color:#0000FF" align="center">
-<img src="images/detection_framework_2.png" width="730"/> 
+<img src="images/detection_framework_2.png" width="630"/> 
 </div>
+
 
 - Architecture of the proposed detection subnetwork.
 <div style="color:#0000FF" align="center">
-<img src="images/detection_network.png" width="730"/> 
+<img src="images/detection_network.png" width="630"/> 
 </div>
+
 
 - Network architecture of the proposed part-level detector based on VGG-16 network with class activation map
 <div style="color:#0000FF" align="center">
-<img src="images/part_network.png" width="730"/> 
+<img src="images/part_network.png" width="630"/> 
 </div>
 
 
 Results
 --------
 Detection results for [Caltech](https://github.com/iyyun/Part-CNN/blob/master/results/USA/dt-RCNN-OPT-SAL-SH-P.mat), [ETH](https://github.com/iyyun/Part-CNN/blob/master/results/ETH/dt-RCNN-OPT-SAL-SH-P.mat), and [INRIA](https://github.com/iyyun/Part-CNN/blob/master/results/INRIA/dt-RCNN-OPT-SAL-SH-P.mat) datasets can be download.
+
+<div style="color:#0000FF" align="center">
+<img src="images/UsaTestRocReasonable.pdf" width="330"/> 
+</div>
 
   
 Download trained networks
