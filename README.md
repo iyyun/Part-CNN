@@ -23,12 +23,12 @@ and alignment.
 
 - Architecture of the proposed detection subnetwork.
 <div style="color:#0000FF" align="center">
-<img src="images/detection_metwork.png" width="730"/> 
+<img src="images/detection_network.png" width="730"/> 
 </div>
 
 - Network architecture of the proposed part-level detector based on VGG-16 network with class activation map
 <div style="color:#0000FF" align="center">
-<img src="images/part_metwork.png" width="730"/> 
+<img src="images/part_network.png" width="730"/> 
 </div>
 
 
