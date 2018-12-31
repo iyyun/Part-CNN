@@ -17,7 +17,9 @@ Images
 ------
 - Whole framework of the proposed method. The proposed pedestrian network consists of two subnetworks: detection
 and alignment.
-
+<div style="color:#0000FF" align="center">
+<img src="images/detection_framework_2.png" width="430"/> 
+</div>
 
 
 - Architecture of the proposed detection subnetwork.
