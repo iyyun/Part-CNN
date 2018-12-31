@@ -9,7 +9,44 @@ accuracy in pedestrian detection and outperforms existing state-of-the-art techn
 
 Contribution Highlights
 -----------------------
-
 - We use saliency in the detection subnetwork to remove background components such as lamp posts and trees from pedestrians.
 - We combine FCN and CAM into the alignment subnetwork to enhance the resolution of confidence maps and successfully recall the lost body parts.
+
+
+Images
+------
+- Whole framework of the proposed method. The proposed pedestrian network consists of two subnetworks: detection
+and alignment.
+
+
+
+- Architecture of the proposed detection subnetwork.
+
+- Network architecture of the proposed part-level detector based on VGG-16 network with class activation map
+
+
+
+
+
+Results
+--------
+Detection results for [Caltech](https://), [ETH](https://), and [INRIA](https://) datasets can be download.
+
+  
+Download trained networks
+-------------------------
+- [Caltech-USA](https://)
+
+
+Citation
+--------
+If you use pedestrian detection result, please cite the following [paper](https://arxiv.org/abs/1810.00689)
+  @article{yun2018part,
+    title={Part-Level Convolutional Neural Networks for Pedestrian Detection Using Saliency and Boundary Box Alignment},
+    author={Yun, Inyong and Jung, Cheolkon and Wang, Xinran and Hero, Alfred O and Kim, Joongkyu},
+    journal={arXiv preprint arXiv:1810.00689},
+    year={2018}
+  }
+
+  
 
