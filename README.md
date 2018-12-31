@@ -39,7 +39,7 @@ Results
 Detection results for [Caltech](https://github.com/iyyun/Part-CNN/blob/master/results/USA/dt-RCNN-OPT-SAL-SH-P.mat), [ETH](https://github.com/iyyun/Part-CNN/blob/master/results/ETH/dt-RCNN-OPT-SAL-SH-P.mat), and [INRIA](https://github.com/iyyun/Part-CNN/blob/master/results/INRIA/dt-RCNN-OPT-SAL-SH-P.mat) datasets can be download.
 
 <div style="color:#0000FF" align="center">
-<img src="images/UsaTestRocReasonable_1.png" width="430" alt="accessibility text"/><img src="images/UsaTestRocOcc=partial_1.png" width="430"/> 
+<img src="images/UsaTestRocReasonable_1.png" width="430"/><img src="images/UsaTestRocOcc=partial_1.png" width="430"/> 
 </div>
 
 <div style="color:#0000FF" align="center">
@@ -55,13 +55,13 @@ Download trained networks
 Citation
 --------
 If you use pedestrian detection result, please cite the following [paper](https://arxiv.org/abs/1810.00689)
-  
-  @article{yun2018part,
-    title={Part-Level Convolutional Neural Networks for Pedestrian Detection Using Saliency and Boundary Box Alignment},
-    author={Yun, Inyong and Jung, Cheolkon and Wang, Xinran and Hero, Alfred O and Kim, Joongkyu},
-    journal={arXiv preprint arXiv:1810.00689},
-    year={2018}
-  }
+    
+    @article{yun2018part,
+      title={Part-Level Convolutional Neural Networks for Pedestrian Detection Using Saliency and Boundary Box Alignment},
+      author={Yun, Inyong and Jung, Cheolkon and Wang, Xinran and Hero, Alfred O and Kim, Joongkyu},
+      journal={arXiv preprint arXiv:1810.00689},
+      year={2018}
+    }
 
   
 
