@@ -36,6 +36,13 @@ and alignment.
 
 Results
 --------
+- Train Sets
+[[ http://dspl.skku.ac.kr/home_course/data/part-cnn/images/V002.gif | height = 360px ]] [[ http://dspl.skku.ac.kr/home_course/data/part-cnn/images/V010.gif | height = 360px ]]
+
+- Test Sets
+[[ http://dspl.skku.ac.kr/home_course/data/part-cnn/images/V008.gif | height = 360px ]] [[ http://dspl.skku.ac.kr/home_course/data/part-cnn/images/V003.gif | height = 360px ]]
+
+
 Detection results for [Caltech](http://dspl.skku.ac.kr/home_course/data/part-cnn/results/USA.zip), [ETH](http://dspl.skku.ac.kr/home_course/data/part-cnn/results/ETH.zip), and [INRIA](http://dspl.skku.ac.kr/home_course/data/part-cnn/results/INRIA.zip) datasets can be download.
 
 <div style="color:#0000FF" align="center">
