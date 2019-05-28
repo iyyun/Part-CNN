@@ -63,15 +63,15 @@ Citation
 --------
 If you use pedestrian detection result, please cite the following [paper](https://ieeexplore.ieee.org/document/8641120)
 
-  @article{yun2019part,
-    title={Part-Level Convolutional Neural Networks for Pedestrian Detection Using Saliency and Boundary Box Alignment},
-    author={Yun, Inyong and Jung, Cheolkon and Wang, Xinran and Hero, Alfred O and Kim, Joong Kyu},
-    journal={IEEE Access},
-    volume={7},
-    pages={23027--23037},
-    year={2019},
-    publisher={IEEE}
-  }
+    @article{yun2019part,
+      title={Part-Level Convolutional Neural Networks for Pedestrian Detection Using Saliency and Boundary Box Alignment},
+      author={Yun, Inyong and Jung, Cheolkon and Wang, Xinran and Hero, Alfred O and Kim, Joong Kyu},
+      journal={IEEE Access},
+      volume={7},
+      pages={23027--23037},
+      year={2019},
+      publisher={IEEE}
+    }
 
   
 
