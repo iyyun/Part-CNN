@@ -61,14 +61,17 @@ Download trained networks
 
 Citation
 --------
-If you use pedestrian detection result, please cite the following [paper](https://arxiv.org/abs/1810.00689)
-    
-    @article{yun2018part,
-      title={Part-Level Convolutional Neural Networks for Pedestrian Detection Using Saliency and Boundary Box Alignment},
-      author={Yun, Inyong and Jung, Cheolkon and Wang, Xinran and Hero, Alfred O and Kim, Joongkyu},
-      journal={arXiv preprint arXiv:1810.00689},
-      year={2018}
-    }
+If you use pedestrian detection result, please cite the following [paper](https://ieeexplore.ieee.org/document/8641120)
+
+  @article{yun2019part,
+    title={Part-Level Convolutional Neural Networks for Pedestrian Detection Using Saliency and Boundary Box Alignment},
+    author={Yun, Inyong and Jung, Cheolkon and Wang, Xinran and Hero, Alfred O and Kim, Joong Kyu},
+    journal={IEEE Access},
+    volume={7},
+    pages={23027--23037},
+    year={2019},
+    publisher={IEEE}
+  }
 
   
 
